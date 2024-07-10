@@ -2,5 +2,6 @@
 
 - Diagrama UML
 
-![java-trilha-basica drawio](https://github.com/viniciusbecker132/trilha-java-basico/assets/13358515/802f8de7-68d4-44d6-b904-73ae9bd97651)
+![java-trilha-basica drawio](https://github.com/viniciusbecker132/trilha-java-basico/assets/13358515/a982b08b-66a9-40be-8b1e-c04ffa1985e2)
+
 
